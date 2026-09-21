@@ -1,10 +1,10 @@
 x=20
 
 if x<20:
-    print("hi")
+    print("hi!")
 
-elif x>19:
-    print("bye")
+elif x<19:
+    print("bye!")
 
 else:
-    print("See you later")
+    print("See you later!")
